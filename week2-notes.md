@@ -2,16 +2,17 @@
 
 ## Branching
 - Branches are lightweight pointers to commits
-- Enable parallel development
+- Enable parallel development 
 - Fast and efficient in Git
 
-## Merging
+## Merging 
 - Fast-forward: Linear history when no divergence
-- Three-way merge: Creates merge commit when branches diverged
-- Conflicts: Resolved manually when same lines modified
+- Three-way merge: Creates merge commit when branches diverge 
+- Conflicts: Resolved manually same lines modified
 
-## GitHub
+## GitHub 
 - Cloud hosting for Git repositories
-- SSH authentication for security
+- SSH authentication for security 
 - Push/pull workflow for synchronization
+
 - Collaboration platform for teams
